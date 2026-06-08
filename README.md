@@ -1,5 +1,15 @@
 # Employee Attrition Analysis Dashboard (Power BI)
 
+# Employee Attrition Analysis Dashboard
+
+## Dashboard Preview
+
+![Dashboard](Dashboard.PNG.png)
+
+## Project Overview
+
+This project analyses employee attrition using HR data and Power BI to identify key drivers of employee turnover and provide business recommendations.
+
 ## Project Overview
 
 This project analyses employee attrition using HR data and Power BI to identify the key drivers of employee turnover and provide actionable business recommendations.
