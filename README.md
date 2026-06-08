@@ -59,9 +59,21 @@ Employee attrition can result in increased recruitment costs, loss of organisati
 - Data Visualisation
 - Business Analysis
 
+## Skills Demonstrated
+- Power BI
+- DAX
+- Data Cleaning
+- Data Visulisation
+- Business Analysis
+- Dashboard Design
+- KPI Development
+- HR Analytics
+
+
 ## Author
 
 Harry Evans
 
 LinkedIn: https://www.linkedin.com/in/harry-evans-analytics
+
 GitHub: https://github.com/HarryE-DA
